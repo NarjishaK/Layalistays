@@ -1242,6 +1242,7 @@ textarea.form-control {
   @media (max-width: 991.98px) {
     .pb_navbar {
       background:#0c2508;
+      
       padding: 15px 15px; }
       .pb_navbar .navbar-brand {
         color: #000 !important;
