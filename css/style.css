@@ -1283,7 +1283,9 @@ textarea.form-control {
       padding-right: 0; }
     .pb_navbar.scrolled .nav-link {
       padding-top: .5rem;
-      padding-bottom: .5rem; }
+      padding-bottom: .5rem;
+      background-color:#0c2508;
+     }
     .pb_navbar.scrolled.awake {
       margin-top: 0px;
       -webkit-transition: .3s all ease-out;
