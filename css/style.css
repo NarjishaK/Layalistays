@@ -152,7 +152,7 @@ textarea.form-control {
   min-height: 500px; }
 
 .menu-open .site-menu-toggle span {
-  background: #000; }
+  background: #fff; }
 
 .site-menu-toggle {
   display: none;
@@ -193,7 +193,7 @@ textarea.form-control {
     -o-transition: .25s ease-in-out;
     transition: .25s ease-in-out; }
   .site-menu-toggle span {
-    background: #000; }
+    background: #fff; }
   @media (max-width: 991.98px) {
     .site-menu-toggle {
       margin-right: 15px;
@@ -201,7 +201,7 @@ textarea.form-control {
       top: 10px;
       position: relative; }
       .site-menu-toggle span {
-        background: #000; } }
+        background: #fff; } }
   .site-menu-toggle span:nth-child(1) {
     top: 0px; }
   .site-menu-toggle span:nth-child(2) {
