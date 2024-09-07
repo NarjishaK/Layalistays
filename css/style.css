@@ -152,7 +152,7 @@ textarea.form-control {
   min-height: 500px; }
 
 .menu-open .site-menu-toggle span {
-  background: #fff; }
+  background: #8c6239; }
 
 .site-menu-toggle {
   display: none;
@@ -201,7 +201,7 @@ textarea.form-control {
       top: 10px;
       position: relative; }
       .site-menu-toggle span {
-        background: #fff; } }
+        background: #8c6239; } }
   .site-menu-toggle span:nth-child(1) {
     top: 0px; }
   .site-menu-toggle span:nth-child(2) {
