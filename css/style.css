@@ -1249,13 +1249,14 @@ textarea.form-control {
         font-family: "Playfair Display", times, serif;
         margin-left: 15px; }
       .pb_navbar .navbar-nav {
-        background: #fff !important; }
+        /* background: #fff !important; */
+       }
       .pb_navbar .navbar-toggler {
         color: black !important;
         border-color: black !important;
         cursor: pointer; }
       .pb_navbar ul li a {
-        color: #000 !important; } }
+        color: #fff !important; } }
   .pb_navbar.scrolled {
     position: fixed;
     right: 0;
